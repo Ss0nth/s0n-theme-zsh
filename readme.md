@@ -1,4 +1,4 @@
-# xthe
+# s0n
 
 A minimalist custom theme for Oh My Zsh.
 
