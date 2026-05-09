@@ -22,7 +22,7 @@ A minimalist custom theme for Oh My Zsh.
 Clone repository:
 
 ```bash id="h0qf5z"
-git clone git@github.com:themax/xthe_theme_zsh.git
+git clone git@github.com:Ss0nth/s0n-theme-zsh.git
 ```
 
 Move theme file:
